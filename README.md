@@ -1,16 +1,36 @@
-- 🌱 I’m currently learning ...
+# ¡Hola! Soy Álvaro Martínez 👋
 
-<!--
-**alvaromartinez17/alvaromartinez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Here are some ideas to get you started:
+Me interesa especialmente el desarrollo backend y la ingeniería de software. Actualmente construyo proyectos para aprender tecnologías y patrones utilizados en entornos profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente aprendiendo
+
+- Java y Spring Boot
+- Kotlin
+- Arquitectura Hexagonal y DDD
+- APIs REST
+- SQL y bases de datos relacionales
+- Testing con JUnit y Mockito
+- Mensajería con Kafka
+- Linux y Git
+
+## 📂 Proyectos
+
+### CRUD con Spring Boot
+Proyecto para practicar:
+- APIs REST
+- Persistencia con JPA/Hibernate
+- Bases de datos SQL
+- Arquitectura en capas
+
+### Próximos proyectos
+
+- Arquitectura Hexagonal + DDD
+- Spring Boot + Kafka
+- Testing con JUnit y Mockito
+- Proyecto backend en Kotlin
+
+## 🎯 Objetivo
+
+Seguir desarrollando proyectos cada vez más complejos mientras construyo experiencia en desarrollo backend.
