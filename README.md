@@ -23,12 +23,12 @@ Proyecto para practicar:
 - Persistencia con JPA/Hibernate
 - Bases de datos SQL
 - Arquitectura en capas
+-  Testing con JUnit y Mockito
 
 ### Próximos proyectos
 
 - Arquitectura Hexagonal + DDD
 - Spring Boot + Kafka
-- Testing con JUnit y Mockito
 - Proyecto backend en Kotlin
 
 ## 🎯 Objetivo
